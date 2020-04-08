@@ -1,4 +1,4 @@
-public class TwoSum {
+public class TwoSum_1 {
 
     /**
      * Given nums = [2, 7, 11, 15], target = 9,
