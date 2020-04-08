@@ -1,0 +1,16 @@
+/.classpath
+/.project
+/.settings/
+/target/
+/.idea
+*.iml
+.idea
+.idea/
+*.project
+*.classpath
+.metadata
+.settings
+**/**/target
+*.factorypath
+out/
+*.DS_Store
